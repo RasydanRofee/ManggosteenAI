@@ -1,1 +1,1 @@
-# ManggosteenAI
+# MangosteenAI
